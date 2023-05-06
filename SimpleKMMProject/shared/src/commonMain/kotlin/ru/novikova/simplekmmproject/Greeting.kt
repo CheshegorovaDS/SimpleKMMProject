@@ -1,5 +1,8 @@
 package ru.novikova.simplekmmproject
 
+import ru.novikova.simplekmmproject.useCase.GetLastSuccessLaunchUseCase
+import ru.novikova.simplekmmproject.useCase.GetRocketsUseCase
+
 class Greeting {
     private val platform: Platform = getPlatform()
 

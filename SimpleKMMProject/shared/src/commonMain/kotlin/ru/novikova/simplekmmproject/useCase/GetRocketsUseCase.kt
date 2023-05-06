@@ -1,4 +1,4 @@
-package ru.novikova.simplekmmproject
+package ru.novikova.simplekmmproject.useCase
 
 import io.ktor.client.call.*
 import io.ktor.client.request.*

@@ -1,4 +1,4 @@
-package ru.novikova.simplekmmproject
+package ru.novikova.simplekmmproject.useCase
 
 import ru.novikova.simplekmmproject.data.RocketLaunch
 
